@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="zy_orange">#fb7b12</color>
+    <color name="zy_text_color">#646464</color>
+    <color name="zy_text_black">#323232</color>
+    <color name="zy_text_gray">#909090</color>
+    <color name="zy_text_blue">#49b6f4</color>
+    <color name="bg_color_gray">#f5f5f5</color>
+    <color name="zy_text_green">#54da4a</color>
+    <color name="zy_text_pink2">#fb5986</color>
+</resources>
